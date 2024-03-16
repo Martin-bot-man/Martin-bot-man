@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martin-bot-man and I know a thing or two about coding
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in AI and Machine learning
+  -  I am a back-end developer  
 - 💞️ I’m looking to collaborate with you in this journey
 - 📫 Reach me via email _martinwere14@gmail.com 
 
