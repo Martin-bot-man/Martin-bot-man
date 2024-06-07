@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Martin ,a front-end Web developer.Proficient in HTML,CSS,Javascript,React ,Vue.js,Figma and Adobe.
 - 👀 I’m interested in AI and Machine learning
-  -  I am a back-end developer  
-- 💞️ I’m looking to collaborate with you in this journey
 - 📫 Reach me via email _martinwere14@gmail.com 
 
 <!---
