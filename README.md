@@ -1,4 +1,4 @@
-\- 👋 Hi, I’m @Martin ,a front-end Web developer.Proficient in HTML, CSS, Javascript, react, python, and Django.
+\- 👋 Hi, I’m Martin, a front-end Web developer. Proficient in HTML, CSS, Javascript, react, python, and Django.
 - 👀 I am deeply interested in AI and Machine learning
 - 📫 Reach me via email at _martinwere14@gmail.com 
 
