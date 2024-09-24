@@ -1,4 +1,4 @@
-\- 👋 Hi, I’m Martin, a Software Engineering student, building awesome products. 
+# 👋 Hi, I’m Martin, a Software Engineering student, building awesome products. 
 - 👀 I am deeply interested in AI and Machine learning
 - 📫 Reach me via email at _martinwere14@gmail.com 
 
