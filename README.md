@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-I am a **Front-End Software Developer **, I am a detailed and solution oriented tech nerd
+I am a detail and solution oriented tech nerd.
 
 I have excellent knowledge in the following programming languages and frameworks
 
