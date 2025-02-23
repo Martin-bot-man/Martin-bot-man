@@ -1,4 +1,4 @@
-### Hello there 👋 my name is Martin, a passionate Front-End Developer
+### Hello there 👋 my name is Martin, a passionate AI/ML Engineer
 
 ## ABOUT ME
 
