@@ -1,4 +1,4 @@
-### Hello there 👋 my name is Martin, a passionate AI/ML Engineer
+### Hello there 👋 my name is Martin, a passionate Full stack Engineer
 
 ## ABOUT ME
 
