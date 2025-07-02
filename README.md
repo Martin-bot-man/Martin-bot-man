@@ -14,7 +14,7 @@ I'm open to work,freelance, or collaborate. Contact Me.
 
 I have excellent knowledge in the following programming languages and frameworks
 
-<img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&logoColor=fff">  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=Html5&logoColor=fff">  <img src="https://img.shields.io/badge/CSS%203-1572B6?logo=CSS3#&logoColor=fff"> <img src="https://img.shields.io/badge/-BOOSTRAP%205-whitesmoke?logo=Bootstrap#&logoColor=fff">  <img src="https://img.shields.io/badge/-PYTHON-white?logo=Python#&logoColor=fff"> <img src="https://img.shields.io/badge/-react-white?logo=react#&logoColor=fff"> <img src="https://img.shields.io/badge/-mongodb-white?logo=mong
+<img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&logoColor=fff">  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=Html5&logoColor=fff">  <img src="https://img.shields.io/badge/CSS%203-1572B6?logo=CSS3#&logoColor=fff"> <img src="https://img.shields.io/badge/-BOOSTRAP%205-whitesmoke?logo=Bootstrap#&logoColor=fff">  <img src="https://img.shields.io/badge/-PYTHON-white?logo=Python#&logoColor=fff"> <img src="https://img.shields.io/badge/-react-white?logo=react#&logoColor=fff"> <img src="https://img.shields.io/badge/-mongodb-white?logo=mongodb#&logoColor=fff" >
 **Contacts**
 
 Feel free to reach me via the following channels;
