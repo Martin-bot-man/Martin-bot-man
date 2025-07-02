@@ -1,8 +1,16 @@
-### Hello there 👋 my name is Martin, a passionate Full stack Developer
+### Martin Owino aka Botman
 
 ## ABOUT ME
 
-I am a detail and solution oriented tech nerd.
+Hello! I'm a developer from Nairobi, Kenya.I enjoy programming and exploring technology.
+
+I have participated in 10+ hackathons and ideathons and won 4 of them
+
+## WHAT I DO?
+I've delivered 6+ freelance projects,interned at a startup and failed to build my startup thrice. #LifeGoesOn. I'm super active on LinkedIn and X where I share funnies and #buildinPublic
+When not coding, I read books, go out for a run.
+
+I'm open to work,freelance, or collaborate. Contact Me.
 
 I have excellent knowledge in the following programming languages and frameworks
 
