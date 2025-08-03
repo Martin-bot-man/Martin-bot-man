@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-Hello! I'm a developer from Nairobi, Kenya.I enjoy programming and exploring technology.
+Hello! I'm a full stack developer from Nairobi, Kenya.I enjoy programming and exploring technology.
 
 I have participated in 10+ hackathons and ideathons and won 2 of them
 
