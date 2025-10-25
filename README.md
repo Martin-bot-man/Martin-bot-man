@@ -4,10 +4,8 @@
 
 Hello! I'm a full stack developer from Nairobi, Kenya.I enjoy programming and exploring technology.
 
-I have participated in 10+ hackathons and ideathons and won 2 of them
-
 ## WHAT I DO?
-I'm super active on LinkedIn and X where I share funnies and #buildinPublic
+I'm super active on LinkedIn and X where I #buildinPublic
 When not coding, I read books, go out for a run.
 
 I'm open to work,freelance, or collaborate. Contact Me.
