@@ -5,7 +5,8 @@
 Hello! I'm a full stack developer from Nairobi, Kenya.I enjoy programming and exploring technology.
 
 ## WHAT I DO?
-I'm super active on LinkedIn and X where I #buildinPublic
+I'm super active on LinkedIn and X where I #buildinPublic.
+
 When not coding, I read books, go out for a run.
 
 I'm open to work,freelance, or collaborate. Contact Me.
