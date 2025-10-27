@@ -9,7 +9,7 @@ I'm super active on LinkedIn and X where I #buildinPublic.
 
 When not coding, I read books, go out for a run.
 
-I'm open to work,freelance, or collaborate. Contact Me.
+I'm open to work,freelance, or collaborate. 
 
 I have excellent knowledge in the following programming languages and frameworks
 
