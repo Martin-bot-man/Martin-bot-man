@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Martin%20Owino%20👋&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Engineer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=header&text=Martin%20Owino%20👋&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Engineer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
@@ -109,15 +109,6 @@ func main() {
 </div>
 
 ---
-
 <div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/martin-bot-man/count.svg)
-  
-  ### ⭐ Show some ❤️ by starring repositories you find interesting!
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
