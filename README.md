@@ -1,22 +1,26 @@
-<div align="center">
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
 
-<h1 style="margin:0;padding:0;font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:900;font-size:82px;letter-spacing:6px;background:linear-gradient(90deg,#00d4ff,#0099ff,#6600ff,#00ffff);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:glow 2s ease-in-out infinite alternate,glitch 5s infinite">
-  MARTIN OWINO
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
-<style scoped>
-@keyframes glow{
-  from{text-shadow:0 0 20px #00ffff,0 0 40px #0099ff,0 0 60px #6600ff}
-  to{text-shadow:0 0 40px #00ffff,0 0 80px #0099ff,0 0 120px #6600ff,0 0 160px #00ffff}
-}
-@keyframes glitch{
-  0%,90%,100%{opacity:1}
-  92%{opacity:0.1}
-  93%{opacity:0.7}
-  94%{opacity:0}
-  95%{opacity:0.5}
-  96%{opacity:0}
-}
-</style>
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+<!-- markdownlint-enable MD033 -->
 
-</div>
+## ⚡ Quick setup
+
+1. Copy-paste the markdown below into your GitHub profile README
+2. Replace the value after `?lines=` with your text. Separate lines of text with semicolons and use `+` or `%20` for spaces.
+3. Adjust the width parameter (see below) to fit the full width of your text.
+
+```md
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+```
