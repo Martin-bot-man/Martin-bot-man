@@ -105,6 +105,4 @@ func main() {
 </div>
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+
