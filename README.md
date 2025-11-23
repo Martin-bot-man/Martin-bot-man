@@ -85,23 +85,6 @@ func main() {
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
@@ -110,23 +93,12 @@ func main() {
 
 ---
 
-### 📈 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 ### 💼 Featured Projects
 
 <div align="center">
 
-[![BTK Go](https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=btk_go&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/bahattinyunus/btk_go)
+[![BTK Go](https://github-readme-stats.vercel.app/api/pin/?username=Martin-bot-man&repo=btk_go&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/martin-bot-man/btk_go)
 
 </div>
 
@@ -150,7 +122,7 @@ func main() {
 
 <!-- BLOG-POST-LIST:START -->
 - 🚀 Getting Started with Go Concurrency
-- 🐍 Python Best Practices for 2024
+- 🐍 Python Best Practices for 2025
 - 🐳 Docker: From Zero to Hero
 - ☸️ Introduction to Kubernetes
 <!-- BLOG-POST-LIST:END -->
@@ -174,13 +146,6 @@ func main() {
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
 </div>
-
----
-
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
