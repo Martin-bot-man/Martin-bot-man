@@ -37,16 +37,7 @@ func main() {
     me.BuildAwesomeProjects()
 }
 ```
-
-- 🔭 Currently working on **Django & Flask projects**
-- 🌱 Learning **Advanced TypeScript & System Architecture**
-- 👯 Looking to collaborate on **Full Stack Web Applications**
-- 💬 Ask me about **Django, Flask, Python, JavaScript, TypeScript**
-- 📫 Reach me: **[Your Email]**
-- ⚡ Fun fact: **Powered by Coffee ☕😂**
-
 <br clear="right"/>
-
 ---
 
 ### 🛠️ Tech Stack
