@@ -85,25 +85,6 @@ func main() {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
----
-
-
-### 💼 Featured Projects
-
-<div align="center">
-
-[![BTK Go](https://github-readme-stats.vercel.app/api/pin/?username=Martin-bot-man&repo=btk_go&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/martin-bot-man/btk_go)
-
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
