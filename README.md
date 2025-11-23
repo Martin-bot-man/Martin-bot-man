@@ -1,27 +1,39 @@
-
 <div align="center">
 
-<h1 align="center">
-  <span style="font-family: 'Courier New', monospace; font-weight: bold; font-size: 4.5rem; 
-               background: linear-gradient(90deg, #00f5ff, #0099ff, #0066ff, #8a2be2);
-               -webkit-background-clip: text;
-               background-clip: text;
-               color: transparent;
-               animation: glow 2s ease-in-out infinite alternate, flicker 4s infinite;
-               letter-spacing: 0.2em;
-               text-shadow: 0 0 20px #00f5ff, 0 0 40px #0099ff;">
-    Martin Owino
+<h1>
+  <span style="
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: 68px;
+    background: linear-gradient(90deg, #00ffff, #0099ff, #3366ff, #9933ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 8px;
+    animation: glow 1.8s ease-in-out infinite alternate, vanish 6s infinite;
+    display: inline-block;
+  ">
+    MARTIN OWINO
   </span>
 </h1>
 
 <style>
 @keyframes glow {
-  from { opacity: 0.4; text-shadow: 0 0 10px #00f5ff; }
-  to   { opacity: 1;   text-shadow: 0 0 30px #00f5ff, 0 0 60px #0099ff; }
+  from { 
+    text-shadow: 0 0 20px #00ffff, 0 0 40px #0099ff;
+    opacity: 0.9;
+  }
+  to { 
+    text-shadow: 0 0 40px #00ffff, 0 0 80px #3366ff, 0 0 120px #9933ff;
+    opacity: 1;
+  }
 }
-@keyframes flicker {
-  0%, 19%, 21%, 23%, 25%, 49%, 51%, 100% { opacity: 1; }
-  20%, 22%, 24%, 50%                     { opacity: 0; }
+@keyframes vanish {
+  0%, 15%, 100% { opacity: 1; }
+  20%, 23%       { opacity: 0.1; }
+  21%, 22%       { opacity: 0.4; }
+  50%, 53%       { opacity: 0; }
+  51%, 52%       { opacity: 0.3; }
 }
 </style>
 
