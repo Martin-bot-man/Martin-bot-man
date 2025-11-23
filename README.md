@@ -99,17 +99,6 @@ func main() {
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Getting Started with Go Concurrency
-- 🐍 Python Best Practices for 2025
-- 🐳 Docker: From Zero to Hero
-- ☸️ Introduction to Kubernetes
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 💭 Random Dev Quote
 
 <div align="center">
@@ -132,7 +121,7 @@ func main() {
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/bahattinyunus/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/martin-bot-man/count.svg)
   
   ### ⭐ Show some ❤️ by starring repositories you find interesting!
   
