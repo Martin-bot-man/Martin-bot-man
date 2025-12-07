@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?Audiowide&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=680&lines=Hi%2C+I'm+Martin+Owino+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%92%BB;Django+%7C+Flask+%7C+Python+%F0%9F%90%8D;JavaScript+%7C+TypeScript+%E2%9A%A1;Welcome+to+My+page%E2%98%95%F0%9F%98%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?Audiowide&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=680&lines=Hi%2C+I'm+Martin+Owino+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%92%BB;Django+%7C+Flask+%7C+Python;JavaScript+%7C+TypeScript+%E2%9A%A1;Welcome+to+My+page%E2%98%95%F0%9F%98%82)](https://git.io/typing-svg)
 
 </div>
 
