@@ -81,7 +81,7 @@ func main() {
 
 ---
 
-### 💭 Random Dev Quote
+#Random Dev Quote
 
 <div align="center">
 
