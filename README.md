@@ -6,29 +6,7 @@
 
                                                          👨‍💻 About Me
 
-```go
-package main
 
-type Developer struct {
-    Name       string
-    Role       string
-    Location   string
-    Interests  []string
-    TechStack  []string
-}
-
-func main() {
-    me := Developer{
-        Name:       "Martin Owino",
-        Role:       "Full Stack Engineer",
-        Location:   "Meru, Kenya",
-        Interests:  []string{"Backend Development", "System Design", "Web Applications"},
-        TechStack:  []string{"Django", "Flask", "Python", "JavaScript", "TypeScript"},
-    }
-    
-    me.BuildAwesomeProjects()
-}
-```
 <br clear="right"/>
                                                                                                🛠️ Tech Stack
 
