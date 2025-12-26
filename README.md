@@ -44,7 +44,7 @@
 
 ---
 
-                                                     ## 📫 Connect With Me
+                                                     📫 Let's connect
 
 <div align="center">
 
