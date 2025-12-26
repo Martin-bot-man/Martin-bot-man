@@ -30,7 +30,7 @@ func main() {
 }
 ```
 <br clear="right"/>
-                                                                                              ## 🛠️ Tech Stack
+                                                                                               🛠️ Tech Stack
 
 <div align="center">
 
