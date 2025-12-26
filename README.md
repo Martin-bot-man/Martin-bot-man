@@ -8,7 +8,7 @@
 
 
 <br clear="right"/>
-                                                                                               🛠️ Tech Stack
+                                                                                          
 
 <div align="center">
 
