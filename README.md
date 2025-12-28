@@ -11,8 +11,8 @@
                                                                                           
 
 <div align="center">
+<img src="https://gist.githubusercontent.com/anonymous/your-gist-id/raw/languages-rain.svg" alt="Languages Rain Animation" width="600"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=750&lines=Hi%2C+I'm+Martin+Owino+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%92%BB;Python+%7C+Django+%7C+Flask;JavaScript+%7C+TypeScript+%E2%9A%A1;Welcome+to+My+page)](https://git.io/typing-svg)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
