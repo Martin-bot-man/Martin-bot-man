@@ -11,8 +11,7 @@
 
 ---
 
-                                                     📫 Let's connect
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=36&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&lines=%F0%9F%93%AB+Let%27s+connect)](https://git.io/typing-svg)
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-owino-o)
